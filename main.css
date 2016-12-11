@@ -1,0 +1,52 @@
+body{ background-color: black;}
+
+
+}
+
+h1 {font-family:Impact;border-top: 10px solid #EF8F00 ; background-color: #333D3A ; color : #EF8F00 ; text-decoration: overline; text-align: center;font-size:70px
+}
+h2 {font-family:Impact;border-top: 10px solid #EF8F00 ;background-color:#333D3A ; font-size:60px; color:#BBBCC0; text-align: center;
+}
+
+
+ul {font-family:"Times New Roman", Times, serif;
+list-style-type: none ;font-size:35px ;
+}
+
+li{color:#EF8F00;text-align: center;font-size:35px ; "Times New Roman", Times, serif;  font-style: oblique; border-bottom: solid 1px
+}
+
+a{
+color:#EF8F00;text-align: center;font-size:35px ; "Times New Roman", Times, serif;  font-style: oblique; border-bottom: solid 1px
+}
+
+p{color:#EF8F00; text-align: center;font-size:35px ;"Times New Roman", Times, serif; font-style: oblique;border-style: groove;
+}
+		
+h3 {color:#EF8F00; text-align: center;font-size:35px ;"Times New Roman", Times, serif; font-style: oblique;border-style: groove;
+}
+		
+#logo{
+width:800px;height:300px;
+}
+.nav1{
+	
+float: right;
+}
+
+#img2{
+width:1275px;
+height:500px;
+}
+
+.display{
+			
+display: none;
+			
+}
+.nav1:hover .display{
+
+display: block;
+}
+
+		
